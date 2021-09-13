@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * _memset - ironnou
+ * _memset - nasifay
  * @s: pointer to char params
  * @b: data to change
  * @n: index
